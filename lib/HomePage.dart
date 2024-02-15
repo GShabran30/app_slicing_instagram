@@ -38,6 +38,8 @@ class _HomepageState extends State<Homepage> {
         type: BottomNavigationBarType.fixed,
         showSelectedLabels: false,
         showUnselectedLabels: false,
+        selectedIconTheme: IconThemeData(color: Colors.black),
+        unselectedIconTheme: IconThemeData(color: Colors.grey),
         items: [
           BottomNavigationBarItem(icon: Icon(Icons.home), label: 'home'),
           BottomNavigationBarItem(icon: Icon(Icons.search), label: 'search'),
