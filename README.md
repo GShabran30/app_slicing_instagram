@@ -1,16 +1,17 @@
-# app_slicing_instagram
+# Instagram App slicing
 
-A new Flutter project.
+Slicing design of the instagram app along with navigation
 
-## Getting Started
+Emulator Used:
+1. Pixel 6
+2. API 28
 
-This project is a starting point for a Flutter application.
+## Screens
+ - Home
+![Screenshot_1707968090](https://github.com/GShabran30/app_slicing_instagram/assets/121564681/b6ced4c4-f74f-41aa-8ee0-1f47ca6a7119)
 
-A few resources to get you started if this is your first Flutter project:
+ - Search
+![Screenshot_1707968100](https://github.com/GShabran30/app_slicing_instagram/assets/121564681/a7fe42a5-6891-4f0f-87f9-add298f680ce)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ - Upload
+![Screenshot_1707968104](https://github.com/GShabran30/app_slicing_instagram/assets/121564681/e8764121-9b34-44ff-b72f-0d8cbc3d2301)
